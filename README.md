@@ -1,2 +1,2 @@
 # Fine-tuning_LLMs
-Technical 
+Technical and Non Technical Exercises!
