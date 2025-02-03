@@ -5,8 +5,11 @@ Groq API Translation with Python
 This project integrates Groq's LLM API to translate text into different languages using Python.
 
 🔹 Features
+
 ✅ Uses Groq API to generate translations
+
 ✅ Supports multiple languages (e.g., Persian, Finnish)
+
 ✅ Simple Python script with an easy-to-use function
 
 
