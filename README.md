@@ -13,15 +13,23 @@ This project integrates Groq's LLM API to translate text into different language
 ✅ Simple Python script with an easy-to-use function
 
 
-*Installation
+#Installation
+
 Clone the Repository
 
-*Install Dependencies:
+
+
+#Install Dependencies
+
 pip install groq
 
-*Set Up API Key
+
+
+#Set Up API Key
+
 Get your Groq API key from the Groq Console:
+
 export GROQ_API_KEY="your_api_key_here"
 
 
-*Then run the script to translate the text into Persian.
+#Then run the script to translate the text into Persian.
