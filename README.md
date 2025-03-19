@@ -1,5 +1,4 @@
 # Fine-tuning_LLMs
-Technical Exercises for Finetuning LLM course!
 
 Groq API Translation with Python
 This project integrates Groq's LLM API to translate text into different languages using Python.
